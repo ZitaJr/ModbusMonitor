@@ -1,0 +1,10 @@
+{
+  "host": "192.168.0.2",
+  "port": 502,
+  "unit_id": 1,
+  "timeout": 1.0,
+  "function": 2,
+  "address": 0,
+  "count": 32,
+  "interval": 1.0
+}
